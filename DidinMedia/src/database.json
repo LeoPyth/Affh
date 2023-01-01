@@ -1,0 +1,71 @@
+{
+  "users": {},
+  "chats": {
+    "6289518363262@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "15854438323@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363026549109196@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363044705672124@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6288293100977@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6282182872630@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "15153755348@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "14324266569@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281545463585@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "628989722384@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": [],
+    "bendera": [],
+    "bendera2": [],
+    "kabupaten": [],
+    "kimia": [],
+    "asahotak": [],
+    "siapakahaku": [],
+    "susunkata": [],
+    "tekateki": []
+  },
+  "settings": {},
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
